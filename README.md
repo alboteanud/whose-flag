@@ -1,9 +1,7 @@
 # \<whose-flag\>
 
-![screen](screen_1.jpg)
-
 <p align="center">
-  <img src="screen_1.jpg" width="350" title="Guess the flag">
+  <img src="screen_1.jpg" width="500" title="Guess the flag">
 </p>
 
 ## Install the Polymer-CLI
