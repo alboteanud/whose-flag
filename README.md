@@ -2,6 +2,10 @@
 
 ![screen](screen_1.jpg)
 
+<p align="center">
+  <img src="screen_1.jpg" width="350" title="Guess the flag">
+</p>
+
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
